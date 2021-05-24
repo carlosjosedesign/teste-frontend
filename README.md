@@ -35,7 +35,7 @@ Tempo aproximado para Execução: `Máximo de 4 horas`
 
 ####  Material de Apoio
 
-Material de Apoio: Arquivo `.psd` com o layout desktop e mobile na versão Windows ou MAC [baixar](https://drive.google.com/file/d/15q_q8q0-OeVxApRXAJKvWHjaLIjL2fXU/view?usp=sharing).
+Material de Apoio: Arquivo `.psd` com o layout desktop na versão Windows ou MAC [baixar](https://drive.google.com/file/d/15q_q8q0-OeVxApRXAJKvWHjaLIjL2fXU/view?usp=sharing).
 
 ![layout-desktop](utils/front_SPA_desktop.jpg)
 
